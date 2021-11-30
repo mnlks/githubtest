@@ -11,6 +11,7 @@ public class fibonacii {
 		{
 			t=f+s;
 			System.out.println(t);
+			System.out.println("hi");
 			f=s;
 			s=t;
 		}
